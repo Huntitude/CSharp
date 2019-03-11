@@ -1,0 +1,29 @@
+
+form {
+    border: 2px solid black;
+    border-radius: 10px;
+    float: left;
+    margin-left: 30px;
+}
+table, h2{
+    margin: 10px;
+}
+textarea.textarea {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+input.button {
+    float: right;
+    margin: 0px 34px 10px 0px;
+    width: 90px;
+    height: 40px;
+    box-shadow: 2px 5px;
+    background-color: rgb(105, 174, 206);
+    font-size: 20px;
+    /* color: white; */
+}
+
+textarea {
+    resize: none;
+}
